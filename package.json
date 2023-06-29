@@ -1,0 +1,21 @@
+{
+  "name": "common-library",
+  "version": "1.0.0",
+  "description": "Common library for client and micro-services.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/debate-zone/common-library.git"
+  },
+  "keywords": [
+    "common"
+  ],
+  "author": "Grig Theo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/debate-zone/common-library/issues"
+  },
+  "homepage": "https://gitlab.com/debate-zone/common-library#readme"
+}
